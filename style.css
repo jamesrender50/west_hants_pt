@@ -1,0 +1,28 @@
+#heading {
+    padding-top: 1%;
+}
+
+#main-section {
+    background-color: lightgrey;
+}
+
+.big-text {
+    font-size: 450%;
+}
+
+.bold-blue {
+    color: darkblue;
+    font-weight: bold;
+}
+
+.panel {
+    /*background: white;*/
+    margin-top: 20px;
+}
+
+#top-row {
+}
+
+#bottom-row {
+ 
+}
